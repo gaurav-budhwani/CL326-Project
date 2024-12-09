@@ -24,6 +24,6 @@ Numerical Simulations:
 3.  Compare experimental observations with theoretical and numerical predictions.
 
 ## Results
-Experimental Insights: Identified the role of viscosity contrast and injection speed on finger morphology.
-Numerical Validation: Simulations aligned with experimental patterns and theoretical predictions.
-Key Findings: High Capillary numbers produce sharper, more unstable fingers; surface tension stabilizes the interface.
+1.  Experimental Insights: Identified the role of viscosity contrast and injection speed on finger morphology.
+2.  Numerical Validation: Simulations aligned with experimental patterns and theoretical predictions.
+3.  Key Findings: High Capillary numbers produce sharper, more unstable fingers; surface tension stabilizes the interface.
